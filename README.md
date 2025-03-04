@@ -1,6 +1,5 @@
 # Hi there 👋
-## Know all about me on my site!! [WIP]
-### https://WhiteNightAWA.github.io
+
 <!--
 **WhiteNightAWA/WhiteNightAWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
